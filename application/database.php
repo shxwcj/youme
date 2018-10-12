@@ -17,11 +17,11 @@ return [
     // 数据库名
     'database'        => 'youme',
     // 用户名
-    'username'        => 'root',
+    'username'        => 'youme',
     // 密码
-    'password'        => 'root',
+    'password'        => 'DZxyWdYHDstnCzQw',
     // 端口
-    'hostport'        => '',
+    'hostport'        => '3306',
     // 连接dsn
     'dsn'             => '',
     // 数据库连接参数
